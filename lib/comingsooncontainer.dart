@@ -154,8 +154,9 @@ class _ComingsoonContainerState extends State<ComingsoonContainer> {
                 ],
                ),
              );
-           },),
-           
+           },
+    );
+  
   }
 }
               
